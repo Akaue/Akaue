@@ -1,4 +1,4 @@
-# <strong><h3> Olá, Seja bem vindo(a)! </h3></strong>
+#  Olá, Seja bem vindo(a)!
 
 
 
