@@ -2,7 +2,7 @@
 
 <img width="700px" align="right" src="https://github.com/Akaue/nao-mexer-privado/blob/master/Akau%C3%AA%20Lima.png" /> 
 
-![tenor (3)](align="right" https://user-images.githubusercontent.com/37002491/95329595-92195500-087d-11eb-9935-ab0cb075d0b1.gif)
+![tenor (3)] align="right"( https://user-images.githubusercontent.com/37002491/95329595-92195500-087d-11eb-9935-ab0cb075d0b1.gif)
 
 
 
