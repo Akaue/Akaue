@@ -10,10 +10,11 @@
 
 
 <br/><br/>
+<a href="https://www.linkedin.com/in/akauelima/"><img src="https://avatars3.githubusercontent.com/u/357098?v=4" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/akauelima/)
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaue&hide=html&layout=compact&theme=buefy" /> 
 
 <br/><br/>
-<a href="https://www.linkedin.com/in/akauelima/"><img src="https://avatars3.githubusercontent.com/u/357098?v=4" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/akauelima/)
+
   
 
